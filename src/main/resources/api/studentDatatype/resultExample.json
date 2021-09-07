@@ -1,0 +1,49 @@
+[{
+	"studentID": 10000,
+	"firstName": "Rahul",
+	"surname": "Dravid",
+	"middleName": "",
+	"dateOfBirth": "2007-01-31",
+	"grade": 9,
+	"result": "Pass",
+	"marks": {
+		"english": 80,
+		"maths": 75,
+		"physics": 88,
+		"chemistry": 60,
+		"biology": 91
+	}	
+},
+{
+	"studentID": 10001,
+	"firstName": "Sowmya",
+	"surname": "Raghav",
+	"middleName": "",
+	"dateOfBirth": "2006-05-25",
+	"grade": 10,
+	"result": "Pass",
+	"marks": {
+		"english": 55,
+		"maths": 98,
+		"physics": 85,
+		"chemistry": 69,
+		"biology": 84
+	}	
+},
+{
+	"studentID": 10003,
+	"firstName": "Raj",
+	"surname": "Kiran",
+	"middleName": "",
+	"dateOfBirth": "2007-10-02",
+	"grade": 9,
+	"result": "Pass",
+	"marks": {
+		"english": 58,
+		"maths": 69,
+		"physics": 74,
+		"chemistry": 63,
+		"biology": 59
+	}	
+}
+]
